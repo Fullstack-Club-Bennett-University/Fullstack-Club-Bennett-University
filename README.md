@@ -24,9 +24,7 @@ Stay tuned for our upcoming events, where you can **Code**, **Create**, and **Co
 
 ---
 
-## 🚩 Club Motto
-
-**"Code. Create. Conquer."** 💻💡🏆
+# 🚩 **Code Create Conquer.** 💻💡🏆
 
 ---
 
